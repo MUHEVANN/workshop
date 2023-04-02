@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6d0f718c.css",
+    "main.js": "/react-gh-pages/static/js/main.fcca73fd.js",
+    "static/media/amikom.png": "/react-gh-pages/static/media/amikom.4d19f90075bd0b1905b7.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.6d0f718c.css.map": "/react-gh-pages/static/css/main.6d0f718c.css.map",
+    "main.fcca73fd.js.map": "/react-gh-pages/static/js/main.fcca73fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d0f718c.css",
+    "static/js/main.fcca73fd.js"
+  ]
+}
